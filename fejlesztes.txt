@@ -1,3 +1,7 @@
 A fejlesztés elkezéde, még nincs teljesen kész
+
 Történt egy kis változás a kódban
 Befejeztük a fejlesztést de lehetséges ,hogy nem jó
+
+ez teljesen jó 
+
