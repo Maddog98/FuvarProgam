@@ -1,1 +1,3 @@
 # SajatHUBRepo
+
+Specifikáció létrehozása
